@@ -4,7 +4,7 @@ Party targets without selecting them
 ![preview1](https://image.noelshack.com/fichiers/2018/03/3/1516207834-sans-titre1.png "preview1")
 
 Aggro indicator for every hostile players and NPCs (if they have a raidmarker because of shared names) when someone in your party/raid is targeting it, even if they don't use this Addon. Aggro indicator is always accurate for your target nameplate.
-![preview2](https://image.noelshack.com/fichiers/2018/03/3/1516207830-sans-titre2.png "preview2")
+![preview2](http://image.noelshack.com/fichiers/2017/09/1488751195-threatplate.png "preview2")
 
 New elite indicator
 ![preview3](https://image.noelshack.com/fichiers/2018/03/3/1516207824-sans-titre3.png "preview3")
